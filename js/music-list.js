@@ -83,4 +83,10 @@ let allMusics = [
         img: "pic14",
         audio:"Thiendiatinhduyen"
     },
+    {
+        name: "爱的路上千万里",
+        artist: "Dj何鹏版",
+        img: "pic15",
+        audio:"爱的路上千万里"
+    },
 ];
